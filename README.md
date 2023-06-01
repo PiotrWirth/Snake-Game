@@ -1,6 +1,6 @@
 # Snake Game
 # About
-Classic snake game created using object-oriented programming in python language using Turtle module
+Classic snake game created using object-oriented programming in python language with Turtle module
 
 The project has been divided into the following subsections:
 
