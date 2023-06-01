@@ -12,6 +12,13 @@ The project has been divided into the following subsections:
 - Detect collision with wall
 - Detect collision with tail
 
+Three objects were created:
+
+- Food
+- Snake
+- Scoreboard
+
+The highscore is saved to a separate file called 'data.txt'
 
 https://github.com/PiotrWirth/Snake-Game/assets/26605945/56d63dfc-6725-4fb7-8030-b40fd8111027
 
